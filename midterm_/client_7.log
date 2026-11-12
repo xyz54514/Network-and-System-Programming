@@ -1,0 +1,5 @@
+Connected to 127.0.0.1:9734
+Enter your name: Server: Hello, Client07!
+Server: READY commands: SYSINFO UPTIME MEMORY DISK TIME HELP QUIT
+command> Server: SYSINFO hostname=ANDREW sysname=Linux release=6.18.58.1-microsoft-standard-WSL2 machine=x86_64
+command> Server: BYE
